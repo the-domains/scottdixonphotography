@@ -1,7 +1,7 @@
 name: ScottDixonPhotography
 favicon: null
-layout_spectrum: 0.18474877323023975
-typography_spectrum: 0.7650563167408109
+layout_spectrum: 0.28829
+typography_spectrum: 0.90067
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#121212'
+    - '#313131'
+    - '#c4c4c4'
+    - '#6a6a6a'
   brandStrength: 0.7218227179255337
   lightness: 0.975655855378136
   saturation: 0.19838367868214846
